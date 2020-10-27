@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,uBAAuB,CAAC;EACtB,aAAa,EAAE,IAAI;CAcpB;;AAfD,AAGI,uBAHmB,CAErB,UAAU,CACR,cAAc,CAAC;EACb,WAAW,EAAE,MAAM;EACnB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;CACf;;AAPL,AASI,uBATmB,CAErB,UAAU,CAOR,iBAAiB,CAAC;EAChB,WAAW,EAAE,MAAM;EACnB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;CACf",
+    "sources": [
+        "card_dashboard.scss"
+    ],
+    "names": [],
+    "file": "card_dashboard.css"
+}
